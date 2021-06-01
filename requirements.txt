@@ -69,7 +69,7 @@ tensorflow==0.5.0
 Twisted==17.5.0
 ubuntuone-client-data==14.4
 unity-lens-photos==1.0
-urllib3==1.13.1
+urllib3==1.26.5
 vboxapi==1.0
 virtualenv==15.1.0
 w3lib==1.18.0
