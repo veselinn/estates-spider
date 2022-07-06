@@ -26,7 +26,7 @@ incremental==17.5.0
 iotop==0.6
 ipaddress==1.0.18
 lockfile==0.12.2
-lxml==3.8.0
+lxml==4.9.1
 meld==3.14.2
 mysql-connector-python==2.0.4
 mysql-utilities==1.6.1
